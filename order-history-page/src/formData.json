@@ -1,0 +1,6 @@
+[
+    { "id": "orderId", "label": "Order ID", "type": "text", "value": "" },
+    { "id": "customerName", "label": "Customer Name", "type": "text", "value": "" },
+    { "id": "orderDate", "label": "Order Date", "type": "date", "value": "" },
+    { "id": "amount", "label": "Amount", "type": "number", "value": "" }
+  ]
